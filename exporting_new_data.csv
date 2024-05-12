@@ -1,0 +1,21 @@
+domain,visits_last_month,sector,generalized_sector
+www.amazon.com,22000.0,Private,e-commerce and allied
+www.flipkart.com,1651.0,Private,e-commerce and allied
+www.amity.edu,7.442,Private,academics/Jobs and allied
+www.lpu.in,34.0,Private,academics/Jobs and allied
+wikipedia.org,44000.0,Private,encyclopedia and related
+www.britannica.com,683.0,Private,encyclopedia and related
+www.cricbuzz.com,3450.0,Private,sports and related
+www.espncricinfo.com,1957.0,Private,sports and related
+www.sharrettsplating.com,0.631,Private,industry and manufacturing related
+www.dupont.com,5.568,Private,industry and manufacturing related
+gem.gov.in,46.0,Government,e-commerce and allied
+www.icegate.gov.in,18.0,Government,e-commerce and allied
+psc.wb.gov.in,19.0,Government,academics/Jobs and allied
+ssc.nic.in,83.0,Government,academics/Jobs and allied
+nationalarchives.nic.in,0.48,Government,encyclopedia and related
+rajbhasha.gov.in,1.931,Government,encyclopedia and related
+sportsauthorityofindia.nic.in,0.615,Government,sports and related
+yas.gov.in,0.16,Government,sports and related
+heavyindustries.gov.in,1.391,Government,industry and manufacturing related
+msme.gov.in,7.531,Government,industry and manufacturing related
